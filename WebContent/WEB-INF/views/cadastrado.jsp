@@ -8,7 +8,9 @@
 </head>
 <body>
 
-<h1>Cadastro realizado com sucesso</h1>
+<input type="text" name="FirstName" value="Escreva Filme"><br>
+<button type="button" onclick="">Enviar</button>
+
 
 </body>
 </html>
